@@ -6,10 +6,7 @@
   <a href="https://github.com/rahumanrifnaz-dev?tab=repositories"><img src="https://img.shields.io/badge/Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://linkedin.com/in/mohamed-rifnaz"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:rahumanrifnaz@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=rahumanrifnaz-dev&label=PROFILE+VIEWS&color=8a2be2&style=flat-square">
-  <img src="https://img.shields.io/github/followers/rahumanrifnaz-dev?label=FOLLOWERS&style=flat-square&color=00ced1">
+ 
 </div>
 
 ---
