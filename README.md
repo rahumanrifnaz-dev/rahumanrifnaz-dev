@@ -1,9 +1,6 @@
 <div align="center">
-  <!-- Replace 'banner.png' with the actual link to your uploaded banner image -->
   <img src="Gemini_Generated_Image_defmotdefmotdefm.jpeg" alt="Profile Banner" width="100%">
   
-  <br><br>
-  <code>Electrical Engineering + Power Electronics + Automation + Embedded Systems</code>
   <br><br>
 
   <a href="https://github.com/rahumanrifnaz-dev?tab=repositories"><img src="https://img.shields.io/badge/Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -11,7 +8,6 @@
   <a href="mailto:rahumanrifnaz@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
   
   <br><br>
-  <!-- These badges will dynamically update -->
   <img src="https://komarev.com/ghpvc/?username=rahumanrifnaz-dev&label=PROFILE+VIEWS&color=8a2be2&style=flat-square">
   <img src="https://img.shields.io/github/followers/rahumanrifnaz-dev?label=FOLLOWERS&style=flat-square&color=00ced1">
 </div>
@@ -20,11 +16,7 @@
 
 ### 👨‍💻 About Me
 
-I am a **Third-year Electrical Engineering student** at the **University of Moratuwa, Sri Lanka**, with strong interests across **power electronics, electrical machines, renewable energy, control systems, and automation**[cite: 1].
-
-My work combines **mathematical modelling, sensing, and instrumentation** with **software development, microcontrollers, and CAD simulation**, allowing me to explore systems from both their **physical engineering** and **intelligent computational** sides[cite: 1].
-
-I am especially interested in applying engineering knowledge to develop practical solutions, utilizing my strong analytical problem-solving abilities to contribute to real-world engineering projects in **power, energy, and automation**[cite: 1].
+Third-year Electrical Engineering student at the University of Moratuwa with strong interests in power electronics, electrical machines, renewable energy, control systems, and automation[cite: 2]. A Mathematics enthusiast with a strong academic interest and analytical problem-solving abilities, seeking to apply engineering knowledge and develop practical skills through industry experience[cite: 2]. Interested in contributing to real-world engineering projects in power, energy, and automation[cite: 2].
 
 <div align="center">
   <br>
@@ -38,19 +30,44 @@ I am especially interested in applying engineering knowledge to develop practica
   <br><br>
 </div>
 
-### 🎯 Current Focus
-Electrical Engineering + Power Electronics + Automation & Control + Embedded Intelligence
+> 🎯 **Current Focus**
+> Electrical Engineering + Power Electronics + Automation & Control + Embedded Intelligence
+
+---
+
+### 🧰 Technical Stack
+
+<div align="center">
+  <h4>⚡ Electrical • Control • Simulation</h4>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/LabVIEW-FFCC00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SolidWorks-E32526?style=for-the-badge&logo=solidworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/AutoCAD-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/LTSpice-CC0000?style=for-the-badge" />
+</div>
+
+<div align="center">
+  <h4>💻 Programming • Software Development</h4>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
+
+<div align="center">
+  <h4>🔌 Hardware • Microcontrollers</h4>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/NI_DAQ-0055A5?style=for-the-badge" />
+</div>
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 🔌 Hardware & Embedded Systems
-* **Smart Haptic Wristband for Musicians:** Developed a wireless haptic metronome system that delivers beat information through vibration instead of an audio click track[cite: 1]. Integrated sensors and actuators with an ESP32-based wristband for real-time beat detection and haptic feedback[cite: 1].
-* **Advanced Light Intensity Indicator (ALII):** Designed a DSP-based system to measure and display light intensity with real-time stability controls[cite: 1]. Implemented configurable averaging windows (30-900s) to reduce sudden variations[cite: 1].
-
-#### ⚙️ Control Systems & Automation
-* **Automated Occupancy Detecting AC Control System:** Developed an occupancy-based AC control system to improve energy efficiency by automatically adjusting AC operation based on room occupancy[cite: 1]. Designed and validated the control logic in MATLAB/Simulink using discrete-time timers[cite: 1]. Designed a ventilated enclosure and sensor housing in SolidWorks[cite: 1].
-
-#### 💻 Software & Web Applications
-* **FixItNow Web Application:** Developed a web-based application designed to connect users with service providers for various repair and maintenance services[cite: 1]. Implemented database management and application functionality using Java and MySQL[cite: 1].
+* **Smart Haptic Wristband for Musicians:** Developed a wireless haptic metronome system that delivers beat information through vibration instead of an audio click track[cite: 2]. Integrated sensors and actuators with an ESP32-based wristband for real-time beat detection and haptic feedback[cite: 2]. Implemented wireless communication and synchronization between the control unit and wristband for consistent timing during musical performance[cite: 2]. 
+* **Advanced Light Intensity Indicator (ALII):** Designed a DSP-based system to measure and display light intensity with real-time stability controls[cite: 2]. Implemented configurable averaging windows (30-900s) to reduce sudden variations and provide stable light intensity readings[cite: 2]. Developed the system for potential integration with solar-based applications and energy-efficient monitoring[cite: 2].
+* **Automated Occupancy Detecting AC Control System:** Developed an occupancy-based AC control system to improve energy efficiency by automatically adjusting AC operation based on room occupancy[cite: 2]. Designed and validated the control logic in MATLAB/Simulink using discrete-time timers for Eco mode and automatic shutdown[cite: 2]. Designed a ventilated enclosure and sensor housing in SolidWorks, integrating provisions for the display and electronic components[cite: 2].
+* **FixItNow Web Application:** Served as the Database Team Leader to develop a web-based application designed to connect users with service providers for various repair and maintenance services[cite: 2]. Implemented database management and application functionality using Java and MySQL[cite: 2]. Designed features to support efficient service requests and communication between customers and service providers[cite: 2].
