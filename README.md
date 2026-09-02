@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Replace 'banner.png' with the actual link to your uploaded banner image -->
-  <img src="banner.png" alt="Profile Banner" width="100%">
+  <img src="Gemini_Generated_Image_defmotdefmotdefm.jpeg" alt="Profile Banner" width="100%">
   
   <br><br>
   <code>Electrical Engineering + Power Electronics + Automation + Embedded Systems</code>
